@@ -1,6 +1,6 @@
-#EmployeesOffice
+# EmployeesOffice
 
-###Opis
+### Opis
 
 Aplikacja webowa stworzona do sprawdzania ile osób pozostało w biurze. 
 Backend jest tylko przykładowy i ma symulować połączenie z czytnikiem identyfikatorów pracowników.
