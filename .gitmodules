@@ -1,3 +1,6 @@
 [submodule "Frontend"]
 	path = Frontend
 	url = https://github.com/DanielSiedlecki/EmployeesOfficeFront.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/DanielSiedlecki/EmployeesOfficeBack.git
